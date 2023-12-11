@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d014617.css",
+    "main.js": "/static/js/main.bb952213.js",
+    "static/js/787.376dd23b.chunk.js": "/static/js/787.376dd23b.chunk.js",
+    "static/media/homepage4-min.jpg": "/static/media/homepage4-min.4b84097ae3bd229399a7.jpg",
+    "static/media/amazone2.jpg": "/static/media/amazone2.5d9c3c9f04b4b5ba65f7.jpg",
+    "static/media/vision.png": "/static/media/vision.87874a214bfbc2c3b849.png",
+    "static/media/orga1.png": "/static/media/orga1.a968b373f3ec982d7815.png",
+    "static/media/orga.png": "/static/media/orga.3ddb60b70a8bb92e3c7c.png",
+    "static/media/logo.png": "/static/media/logo.f826611fbe8fbcaae371.png",
+    "static/media/actuessai.jpg": "/static/media/actuessai.0a600cda39fc76b8efc9.jpg",
+    "static/media/presentation1.png": "/static/media/presentation1.80a104fb04cd53cd4b65.png",
+    "static/media/fond.png": "/static/media/fond.0cb3fec0e3aeafbb28cf.png",
+    "index.html": "/index.html",
+    "main.3d014617.css.map": "/static/css/main.3d014617.css.map",
+    "main.bb952213.js.map": "/static/js/main.bb952213.js.map",
+    "787.376dd23b.chunk.js.map": "/static/js/787.376dd23b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d014617.css",
+    "static/js/main.bb952213.js"
+  ]
+}
